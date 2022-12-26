@@ -30,6 +30,7 @@ def circulate():
 
 ## Output:
 ![exp2py](https://user-images.githubusercontent.com/121165938/209550247-16d3cc9d-0fec-4f17-a7dc-dc184c88e68e.png)
+![exp2](https://user-images.githubusercontent.com/121165938/209550855-bc67baa6-aeef-4d0c-bb11-068ee4daf3a1.png)
 
 ## Result:
 Thus the python program to circulate the n variables using function concept is obtained.
