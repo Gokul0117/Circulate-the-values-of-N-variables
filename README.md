@@ -21,8 +21,8 @@ Print the coding to gat answer
 ```
 
 #Program to circulate N values.
-#Developed by: 
-#RegisterNumber:
+#Developed by:GokuL J 
+#RegisterNumber:22009062
 def circulate():
     l=eval(input())
     n=int(input())
@@ -32,8 +32,9 @@ def circulate():
 
 
 ## Output:
-![exp2py](https://user-images.githubusercontent.com/121165938/209550247-16d3cc9d-0fec-4f17-a7dc-dc184c88e68e.png)
-![exp2](https://user-images.githubusercontent.com/121165938/209550855-bc67baa6-aeef-4d0c-bb11-068ee4daf3a1.png)
+![circulate vari](https://user-images.githubusercontent.com/121165938/214605427-c2aab189-9b51-4e22-8f71-d337b7b7e1d3.png)
+![circulate variable](https://user-images.githubusercontent.com/121165938/214605484-90f8f82f-bb45-4047-8195-57dd0e1cb6cd.png)
+
 
 ## Result:
 Thus the python program to circulate the n variables using function concept is obtained.
