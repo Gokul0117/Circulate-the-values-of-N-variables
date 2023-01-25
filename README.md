@@ -33,7 +33,8 @@ def circulate():
 
 ## Output:
 ![circulate vari](https://user-images.githubusercontent.com/121165938/214605427-c2aab189-9b51-4e22-8f71-d337b7b7e1d3.png)
-![circulate variable](https://user-images.githubusercontent.com/121165938/214610751-2e7e7e59-0978-459a-baa7-634064d562af.png)
+![circulate variable 1](https://user-images.githubusercontent.com/121165938/214611120-054ac52b-ff83-438f-9e4d-c652d0d121db.png)
+
 
 
 
